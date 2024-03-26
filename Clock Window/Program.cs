@@ -16,7 +16,7 @@ namespace Clock_Window
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Clock());
+            Application.Run(new Form2());
         }
     }
 }
